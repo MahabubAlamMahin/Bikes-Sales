@@ -1,4 +1,4 @@
-🚴‍♂️ BIKE SALES ANALYSIS PROJECT
+# **🚴‍♂️ BIKE SALES ANALYSIS PROJECT**
 
 📈 Overview
 This project explores a dataset containing detailed customer demographics to analyze factors influencing bike purchasing behavior. It includes data transformation, pivot table summaries, and an interactive dashboard to highlight key trends and insights.
