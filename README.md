@@ -7,18 +7,18 @@ This project explores a dataset containing detailed customer demographics to ana
 The dataset includes the following variables:
 
 ID: Unique identifier for each customer
-Marital Status
-Gender
-Income
-Children: Number of children
-Education
-Occupation
-Home Owner: Yes/No
-Cars: Number of cars owned
-Commute Distance
-Region
-Age
-Age Bracket: Age group classification
+Marital Status,
+Gender,
+Income,
+Children: Number of children,
+Education,
+Occupation,
+Home Owner: Yes/No,
+Cars: Number of cars owned,
+Commute Distance,
+Region,
+Age,
+Age Bracket: Age group classification,
 Purchased Bike: Target variable (Yes/No)
 
 🛠️ Project Structure
